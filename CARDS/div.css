@@ -1,0 +1,40 @@
+body{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.main{
+    background-color: #fff;
+    width: 350px;
+    height: 475px;
+    display: flex;
+    justify-content: center;
+    padding-top: 8px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    padding-bottom: 30px;
+}
+button{
+    
+    background-color: yellow;
+    border: yellow;
+    font-size:medium;
+}
+.C{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+img{
+    border-radius: 10px;
+}
+b{
+    margin: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    color: blue;
+}

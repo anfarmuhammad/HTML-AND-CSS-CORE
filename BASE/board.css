@@ -1,0 +1,72 @@
+body{
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+
+}
+.main{
+    width: 750px;
+    height: 250px;
+    background-color: rgb(213, 71, 71);
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 3px;
+    
+}
+
+
+button{
+    width: 46px;
+    height: 40px;
+    color: blue;
+    background-color:rgb(151, 131, 176);
+    border-radius: 5px;
+    
+    
+}
+.B{
+    width: 96px;
+
+}
+.C{
+    width: 96px;
+    
+}
+.D{
+    width: 96PX;
+    
+}
+.E{
+    width: 96PX;
+    
+}
+.F{
+    width:96px ;
+     
+}
+.G{
+    width:146PX ;
+
+}
+.H{
+    width:246px ;
+    border-radius: 100px;
+
+}
+button:hover{
+    background-color:yellow;
+
+}
+
+    
+
+
+    
+
+
+
